@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549966879 source:c:\users\gabriel arghire\desktop\facultate\templatematching\tempmat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
