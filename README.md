@@ -38,15 +38,15 @@ Output:
 
 Legend:
 
-Digit 0 – Red (255, 0, 0)
-Digit 1 – Yellow (255, 255, 0)
-Digit 2 – Green (0, 255, 0)
-Digit 3 – Cyan (0, 255, 255)
-Digit 4 – Magenta (255, 0, 255)
-Digit 5 – Blue (0, 0, 255)
-Digit 6 – Gray (192,192, 192)
-Digit 7 – Orange (255, 140, 0)
-Digit 8 – Dark magenta (128, 0, 128)
-Digit 9 – Dark red (128, 0, 0)
+Digit 0 – Red (255, 0, 0)\
+Digit 1 – Yellow (255, 255, 0)\
+Digit 2 – Green (0, 255, 0)\
+Digit 3 – Cyan (0, 255, 255)\
+Digit 4 – Magenta (255, 0, 255)\
+Digit 5 – Blue (0, 0, 255)\
+Digit 6 – Gray (192,192, 192)\
+Digit 7 – Orange (255, 140, 0)\
+Digit 8 – Dark magenta (128, 0, 128)\
+Digit 9 – Dark red (128, 0, 0)\
 
 Note that not every digit is colored to its color because of the used algorithm.
